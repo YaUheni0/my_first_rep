@@ -10,3 +10,6 @@
 # dobavili tekst v novoi vetke 
 
 NAchal konflikt
+
+
+Razreshaem conflict 
